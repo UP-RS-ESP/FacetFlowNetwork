@@ -8,7 +8,7 @@ The core of this module is written in C (see main.c). It is
 wrapped by Cython into a Python module, i.e., you will need Python,
 Cython and a C compiler.
 
-    git clone https://github.com/Rheinwalt/FacetFlowNetwork.git
+    git clone https://github.com/UP-RS-ESP/FacetFlowNetwork.git
     cd FacetFlowNetwork
     sudo python setup.py install
 
