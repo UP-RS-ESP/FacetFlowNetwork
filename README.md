@@ -1,3 +1,5 @@
+![header](header.png?raw=true "FFN SCA colored point cloud")
+
 # FacetFlowNetwork
 
 Flow accumulation on TINs of point-cloud data by facet flow networks (FFNs).
